@@ -2,6 +2,9 @@
 {
   "name": "docker-complete",
   "version": "1.0.0",
+  "scripts": {
+    "build":"npm run build"
+  }
   "description": "",
   "main": "server.js",
   "author": "Maximilian Schwarzmüller / Academind GmbH",
